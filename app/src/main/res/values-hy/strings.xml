@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flexo Pantone Ուղեցույց</string>
+    <string name="search_hint">Որոնել Pantone</string>
+    <string name="substrate_label">Նյութ</string>
+    <string name="white_paper">Սպիտակ թուղթ</string>
+    <string name="metallic_foil">Մետաղական փայլաթիթեղ</string>
+    <string name="recipe_label">Բաղադրատոմս</string>
+    <string name="inks_label">Ներկեր</string>
+    <string name="parts_label">%</string>
+    <string name="no_pantone_selected">Pantone ընտրված չէ</string>
+    <string name="scan_color">Սկանավորել գույնը</string>
+    <string name="camera_permission_required">Գույները սկանավորելու համար անհրաժեշտ է տեսախցիկի թույլտվություն:</string>
+    <string name="brand_zeller">Zeller-Gmelin</string>
+    <string name="brand_colorgraf">Colorgraf</string>
+    <string name="ink_formulation">X-Rite InkFormulation 6.6.1</string>
+    <string name="total_grams">Ընդհանուր քաշը (գ)</string>
+    <string name="transparent_film">Թափանցիկ թաղանթ</string>
+    <string name="ai_scan">AI Սկան</string>
+    <string name="ai_security_warning">Անվտանգության նախազգուշացում․ Ձեր API բանալիները ներառված են այս նախատիպում:</string>
+</resources>

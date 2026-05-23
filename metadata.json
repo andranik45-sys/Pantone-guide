@@ -1,0 +1,6 @@
+{
+  "name": "Flexo Pantones",
+  "description": "Create UV flexo printing pantones for white paper and metallic foil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

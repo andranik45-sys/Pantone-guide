@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Справочник Flexo Pantone</string>
+    <string name="search_hint">Поиск Pantone</string>
+    <string name="substrate_label">Материал</string>
+    <string name="white_paper">Белая бумага</string>
+    <string name="metallic_foil">Метал. фольга</string>
+    <string name="recipe_label">Рецепт</string>
+    <string name="inks_label">Краски</string>
+    <string name="parts_label">%</string>
+    <string name="no_pantone_selected">Pantone не выбран</string>
+    <string name="scan_color">Сканировать цвет</string>
+    <string name="camera_permission_required">Для сканирования цветов требуется разрешение на использование камеры.</string>
+    <string name="brand_zeller">Zeller-Gmelin</string>
+    <string name="brand_colorgraf">Colorgraf</string>
+    <string name="ink_formulation">X-Rite InkFormulation 6.6.1</string>
+    <string name="total_grams">Общий вес (г)</string>
+    <string name="transparent_film">Прозрачная пленка</string>
+    <string name="ai_scan">ИИ Скан</string>
+    <string name="ai_security_warning">Предупреждение о безопасности: Ваши ключи API включены в этот APK-файл.</string>
+</resources>
